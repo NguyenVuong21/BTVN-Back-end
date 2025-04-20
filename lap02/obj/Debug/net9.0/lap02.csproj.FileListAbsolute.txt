@@ -1,0 +1,15 @@
+D:\BTVNBack-end\lap02\bin\Debug\net9.0\lap02.exe
+D:\BTVNBack-end\lap02\bin\Debug\net9.0\lap02.deps.json
+D:\BTVNBack-end\lap02\bin\Debug\net9.0\lap02.runtimeconfig.json
+D:\BTVNBack-end\lap02\bin\Debug\net9.0\lap02.dll
+D:\BTVNBack-end\lap02\bin\Debug\net9.0\lap02.pdb
+D:\BTVNBack-end\lap02\obj\Debug\net9.0\lap02.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTVNBack-end\lap02\obj\Debug\net9.0\lap02.AssemblyInfoInputs.cache
+D:\BTVNBack-end\lap02\obj\Debug\net9.0\lap02.AssemblyInfo.cs
+D:\BTVNBack-end\lap02\obj\Debug\net9.0\lap02.csproj.CoreCompileInputs.cache
+D:\BTVNBack-end\lap02\obj\Debug\net9.0\lap02.sourcelink.json
+D:\BTVNBack-end\lap02\obj\Debug\net9.0\lap02.dll
+D:\BTVNBack-end\lap02\obj\Debug\net9.0\refint\lap02.dll
+D:\BTVNBack-end\lap02\obj\Debug\net9.0\lap02.pdb
+D:\BTVNBack-end\lap02\obj\Debug\net9.0\lap02.genruntimeconfig.cache
+D:\BTVNBack-end\lap02\obj\Debug\net9.0\ref\lap02.dll

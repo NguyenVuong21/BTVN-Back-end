@@ -1,0 +1,14 @@
+D:\BTVNBack-end\Lap1.1\bin\Debug\net9.0\Lap1.1.exe
+D:\BTVNBack-end\Lap1.1\bin\Debug\net9.0\Lap1.1.deps.json
+D:\BTVNBack-end\Lap1.1\bin\Debug\net9.0\Lap1.1.runtimeconfig.json
+D:\BTVNBack-end\Lap1.1\bin\Debug\net9.0\Lap1.1.dll
+D:\BTVNBack-end\Lap1.1\bin\Debug\net9.0\Lap1.1.pdb
+D:\BTVNBack-end\Lap1.1\obj\Debug\net9.0\Lap1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTVNBack-end\Lap1.1\obj\Debug\net9.0\Lap1.1.AssemblyInfoInputs.cache
+D:\BTVNBack-end\Lap1.1\obj\Debug\net9.0\Lap1.1.AssemblyInfo.cs
+D:\BTVNBack-end\Lap1.1\obj\Debug\net9.0\Lap1.1.csproj.CoreCompileInputs.cache
+D:\BTVNBack-end\Lap1.1\obj\Debug\net9.0\Lap1.1.dll
+D:\BTVNBack-end\Lap1.1\obj\Debug\net9.0\refint\Lap1.1.dll
+D:\BTVNBack-end\Lap1.1\obj\Debug\net9.0\Lap1.1.pdb
+D:\BTVNBack-end\Lap1.1\obj\Debug\net9.0\Lap1.1.genruntimeconfig.cache
+D:\BTVNBack-end\Lap1.1\obj\Debug\net9.0\ref\Lap1.1.dll
